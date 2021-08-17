@@ -1,0 +1,11 @@
+commit cc263136b47947a2240ffa7fcbd12dd6ca637cc5
+Author: amandaguglieri <amandaguglieri@gmail.com>
+Date:   Tue Aug 17 16:54:01 2021 +0200
+
+    adding.gitignore
+
+commit 3ea3d5b2c8d11feadd201596151a41c494334089
+Author: amandaguglieri <amandaguglieri@gmail.com>
+Date:   Tue Aug 17 15:05:31 2021 +0200
+
+    added readme.txt
